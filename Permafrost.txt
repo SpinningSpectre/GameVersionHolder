@@ -1,5 +1,5 @@
 {
-"version": 1.0.0,
-"maintext": "Updated fr",
-"secondarytext":"I Lied"
+ "version": "1.0.0",
+ "maintext": "Updated fr",
+ "secondarytext": "I Lied"
 }
