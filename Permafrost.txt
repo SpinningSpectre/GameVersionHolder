@@ -1,5 +1,6 @@
 {
  "version": "1.2.2",
  "maintext": "Updated fr",
- "secondarytext": "I Lied"
+ "secondarytext": "I Lied",
+ "url": "https://spinning-spectre.itch.io/permafrost"
 }
