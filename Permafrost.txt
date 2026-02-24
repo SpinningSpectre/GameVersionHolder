@@ -1,7 +1,7 @@
 {
  "version": "1.2.2",
- "maintext": "Updated fr",
- "secondarytext": "I Lied",
+ "maintext": "QOL and Fixes",
+ "secondarytext": "Skipping cutscenes, 3 New rooms and more!",
  "url": "https://spinning-spectre.itch.io/permafrost",
  "changelogurl": "https://spinning-spectre.itch.io/permafrost/devlog/1354475/permafrost-v122"
 }
