@@ -2,5 +2,6 @@
  "version": "1.2.2",
  "maintext": "Updated fr",
  "secondarytext": "I Lied",
- "url": "https://spinning-spectre.itch.io/permafrost"
+ "url": "https://spinning-spectre.itch.io/permafrost",
+ "changelogurl": "https://spinning-spectre.itch.io/permafrost/devlog/1354475/permafrost-v122"
 }
